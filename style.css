@@ -1,0 +1,233 @@
+body {
+   
+    overflow: scroll;
+    height: 2000px;
+    margin-top: 0px;
+
+
+}
+
+#wrapper {
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    width: 310px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+}
+
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300; 
+    font-size: 35px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    margin-top: 0px;
+}
+
+section {
+    margin-right: 0px;
+}
+
+#section2 {
+    margin-top: 20px;
+    margin-right: 29px;
+}
+
+#p2part1 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#p2part2 {
+    margin-right: 120px;
+    margin-top: 0px;
+}
+
+#ph1descr{
+    margin-left: 235px;
+    margin-top: 120px;
+    margin-bottom: 0px; 
+    text-align: center;
+    color: whitesmoke;
+    font-size: xx-small;
+}
+
+
+
+#el1 {
+    margin-top: -90px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#el2 {
+    margin-top: 0px;
+    margin-right: 120px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#quote1{
+    font-size: 14px;
+    font-weight: 100;
+    color: whitesmoke;
+    margin-left: 150px;
+    margin-right: 3px;
+    margin-top: 15px;
+    text-align: right;
+}
+
+#h2sec3{
+    margin-top:-22px;
+    margin-left: 1px;
+    margin-right: 200px;
+    font-size: 18px;
+    text-align: left;
+}
+
+#section3 {
+    margin-top: 5px;
+    margin-left: 110px;
+    margin-right: 3px;
+    color: whitesmoke;
+    text-align: right;
+}
+
+#rodimg  {
+    margin-top: 0px;
+    max-width: 311.5px;
+    
+}
+
+#rodsec {
+    padding-top: 15px;
+    background-color: #564C43;
+    margin-top: -22px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+    text-align: justify;
+}
+
+#rodquote {
+    background-color: #F74625;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+#klutsec {
+    background-color:#D7371F;
+    padding: 7px;
+    padding-bottom: 50px;
+}
+
+#klutimg {
+    max-width: 298px;
+    margin-bottom: 10px;
+}
+
+#typeface {
+    font-size: 55px;
+    margin-top: -15px;
+    margin-bottom: 30px;
+    transform: rotate(-10deg);
+}
+
+.sansserif {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#colors {
+    padding: 7px;
+    font-size: 50px;
+    background-color: #D7371F;
+}
+
+.white {
+    background-color: rgb(250, 236, 216);
+    font-size: 60px;
+    font-weight: 800;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+#lay1 {
+    padding: 7px;
+    font-size: 50px;
+    background-color: #D7371F;
+    margin-bottom: 0px;
+}
+
+#lay2 {
+    padding: 7px;
+    font-size: 50px;
+    background-color:black;
+    color:  rgb(250, 236, 216);
+    margin-top: 0px;
+}
+
+#lay3 {
+    padding-left: 3px;
+    padding-right: 50px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 50px;
+    background-color:rgb(250, 236, 216);
+    color:  black;
+    transform: rotate(90deg);
+    text-align: center;
+    width: 350px;
+    margin-left: 72px;
+    margin-top: 90px;
+}
+
+#laytext {
+    margin-right: 80px;
+    margin-top: -150px;
+    padding-bottom: 30px;
+}
+
+#h2video {
+    padding: 7px;
+    font-size: 50px;
+    background-color:black;
+    color:  rgb(250, 236, 216);
+    margin-top: 0px;
+}
+
+#video {
+    background-color: rgb(250, 236, 216);
+    padding: 50px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+#iframe {
+    border: 0px;
+}
